@@ -5,8 +5,10 @@ const View = () => {
   return (
     <div>
         <Nav1/>
-
         
+
+
+
     </div>
   )
 }
